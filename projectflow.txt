@@ -1,0 +1,4 @@
+create git repo and clone it in local
+create Mycode and add data to it
+Do a git add-coomit-push before intilising DVC
+
